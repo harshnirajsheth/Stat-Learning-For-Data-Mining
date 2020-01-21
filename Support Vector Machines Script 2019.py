@@ -1,6 +1,5 @@
 # IEE 520: Fall 2019
 # Support Vector Machines
-# Klim Drobnyh (klim.drobnyh@asu.edu)
 
 # For compatibility with Python 2
 from __future__ import print_function
