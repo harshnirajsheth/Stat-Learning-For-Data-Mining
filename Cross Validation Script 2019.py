@@ -1,6 +1,6 @@
 # IEE 520: Fall 2019
 # Naive Bayes (9/5/19)
-# Klim Drobnyh (klim.drobnyh@asu.edu)
+
 
 # For compatibility with Python 2
 from __future__ import print_function
